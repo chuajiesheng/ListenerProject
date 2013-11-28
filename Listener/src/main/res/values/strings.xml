@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Listener</string>
+    <string name="content">Console</string>
+    <string name="servicedesc">Application design to listen and log APDU issued by the reader.</string>
+    <string name="aiddescription">AID group containing all section of MiFare application directory.</string>
+</resources>
